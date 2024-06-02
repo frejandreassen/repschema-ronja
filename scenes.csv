@@ -12,21 +12,21 @@ Scen,Beskrivning,Medverkande,Sidor
 1:11,Samtal vid bordet,"Ronja, Mattisrövare",17
 1:12,Hövdingsången,"Ronja, Mattisrövare",18
 1:13,Ronja & Birks 1 möte,"Ronja, Birk",19-22
-1:14,Mattis får info om Birk,"Ronja, alla Mattisrövare",23-25
-1:15,Möte vid Helvetsgapet,"Ronja, alla Mattisrövare, Birk, alla Borkarövare + knektar",26-27
+1:14,Mattis får info om Birk,"Ronja, Mattisrövare",23-25
+1:15,Möte vid Helvetsgapet,"Ronja, Mattisrövare, Birk, Borkarövare + knektar",26-27
 1:16,De underjordiska,"Ronja, Birk, De underjordiska",28-30
 1:17,Vad är en rövare?,"Mattis, Ronja, Skalle-Per",31-32
 1:18,Vargsången,"Mattis, Ronja, Lovis",33
 1:19,rumpnissar,"Ronja, Rumpnissar",34-36
 1:20,Vildvottror,"Ronja, Vildvittror",37
 1:21,Birk räddar Ronja,"Ronja, Birk, Rumpnissar",38-39
-1:22,Dipjojken,"Ronja, Birk (rövare som sjunger off stage)",40
+1:22,Dipjojken,"Ronja, Birk, (rövare som sjunger off stage), Mattisrövare",40
 1:23,Insnöade,"Ronja, Mattisrövare",41
 1:24,Darum,"Ronja, Mattisrövare",42
-1:25,Samtal med Skalle-Per,"Ronja, Skalle-Per (Mattisrövare)",43
+1:25,Samtal med Skalle-Per,"Ronja, Skalle-Per, Mattisrövare",43
 1:26,Ronja gräver,"Ronja, Birk",44-46
 1:27,Rid över skog,"Ronja, Mattisrövare",47
-1:28,Ronjas gånglåt,Ronja (rövare som sjunger off stage),48
+1:28,Ronjas gånglåt,Ronja, Mattisrövare, (rövare som sjunger off stage),48
 1:29,vårdag,"Ronja, Birk, Oknytt",49-50
 1:30,Sturkas skjuten,"Ronja, Mattisrövare",51-53
 1:31,Ronja och Birk ledsna,"Ronja, Birk",54
@@ -37,10 +37,10 @@ Scen,Beskrivning,Medverkande,Sidor
 2:4,Björngrottan,"Ronja, Birk, Grådvärgar",64-65
 2:5,Vildvittror anfaller,"Ronja, Birk, Vildvittror",66-68
 2:6,Kniven kom tillrätta,"Ronja, Birk",69
-2:7,Vilda skogssången,Mattisrövare (ej Mattis),70
+2:7,Vilda skogssången,Mattisrövare, (ej Mattis),70
 2:8,Lillklippen på besök,"Ronja, Birk, Lillklippen",71-74
 2:9,Ronja och Birk ensamma,"Ronja, Birk",75
-2:10,Mattis förtvivlad,"Mattis, Lovis, Mattisrövare?",76
+2:10,Mattis förtvivlad,"Mattis, Lovis, Mattisrövare,?",76
 2:11,Lovis på besök,"Lovis, Ronja, Birk",77-79
 2:12,Vargsången,"Lovis, Ronja",80
 2:13,Samtal sista sommaren,"Ronja, Birk",81-82
