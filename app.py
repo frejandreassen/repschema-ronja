@@ -18,10 +18,12 @@ schedule_df = pd.read_csv('schedule.csv')
 
 # Calculate today's date
 today = datetime.now()
+# Calculate yesterday's date to include today's events as upcoming
+yesterday = datetime.now() - timedelta(days=1)
 
 # Format the 'Datum' column and filter the schedule to include only upcoming events
 schedule_df['Datum'] = pd.to_datetime(schedule_df['Datum']).dt.date
-next_week_schedule = schedule_df[(pd.to_datetime(schedule_df['Datum']) >= today)]
+next_week_schedule = schedule_df[(pd.to_datetime(schedule_df['Datum']) >= yesterday)]
 
 # User selects characters from the hard-coded list
 selected_characters = st.multiselect('Välj karaktärer:', options=characters_list, placeholder="Välj karaktär:")
