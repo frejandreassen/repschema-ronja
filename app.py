@@ -36,7 +36,7 @@ def filter_scenes(row):
     # Replace plus signs with commas and then split by commas
     participants = row['Medverkande'].replace('+', ',').lower().split(',')
     # Clean up extra spaces and check for character presence
-    return any(char.lower().strip() in [p.strip() for p in participants] for char in normalized_characters) or 'alla' in participants
+    return any(char.lower().strip() in [p.strip() for p in participants] for char in normalized_characters) or 'alla' in participants or 'alla' in row['Scen'].lower()
 
 # Apply the filter if any character is selected, otherwise use all scenes
 if normalized_characters:
